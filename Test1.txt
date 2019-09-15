@@ -1,0 +1,5 @@
+The first steps of this project will be to create a character with several attributes, and test out different actions,
+such as EXPLORE, FIGHT, BUILD, DRIVE, etc... 
+
+This should help flesh out the class design, and gives the chance to make some early mistakes.
+

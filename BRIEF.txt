@@ -1,0 +1,6 @@
+BRIEF
+The idea of this game is to be a test-based RPG, where a human goes from birth or young adulthood on a dystopian world, to rising in the world, 
+getting a job, earning rewards, working their way up.
+
+The game will focus on making progression interesting and unpredictable, by generating dynamic NPCs and scenarios
+
